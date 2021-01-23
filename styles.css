@@ -20,7 +20,7 @@
     width: 100vw;
     height: 100vh;
     z-index: -1;
-    background-image: url(./public/bg-mobile.jpg);
+    background-image: url(./public/bg-mobile-bw.jpg);
     background-repeat: no-repeat;
     opacity: 0.4;
 }
