@@ -17,7 +17,7 @@ const index = () => {
                 <Product img="/deck1.png" id="first" name="Doska dizajn 1" price="45&euro;" />
                 <Product img="/tshirt1.png" id="second" name="Tričko dizajn 1" price="45&euro;" />
                 <Product img="/deck2.png" id="third" name="Doska dizajn 2 - predobjednávka" price="45&euro;" />
-                <Product img="/tshirt2.png" id="last" name="Doska dizajn 1" price="45&euro;" />
+                <Product img="/tshirt2.png" id="last" name="Tričko dizajn 2 - predobjednávka" price="45&euro;" />
                 <Footer />
             </div>
         </Layout>

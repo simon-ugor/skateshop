@@ -79,6 +79,9 @@
 .product-name {
     margin-top: 1vh;
     margin-bottom: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    text-align: center;
 }
 
 .underline-div {
